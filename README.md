@@ -1,6 +1,6 @@
 # Celestial Projectile Motion Simulator
 
-A GlowScript VPython simulation to visualize **projectile motion** on different planetary bodies. This project models how launch parameters and gravitational differences affect a projectile's range and trajectory, with interactive controls for physics variables.
+A VPython simulation to visualize **projectile motion** on different planetary bodies. This project models how launch parameters and gravitational differences affect a projectile's range and trajectory, with interactive controls for physics variables.
 
 ---
 
@@ -74,3 +74,4 @@ Updated: July 2025 (for GitHub Portfolio)
 
 - [Trinket.io](https://trinket.io/) for providing an interactive VPython environment.
 - VPython team and GlowScript developers for their educational visualization tools.
+
